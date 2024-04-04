@@ -14,6 +14,11 @@
 * 🤝  Я готов для работы в Backend-разработке, сопровождении
 * 📧  Почта для связи - Pulpu070602@yandex.ru
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ### Skills
 
 
