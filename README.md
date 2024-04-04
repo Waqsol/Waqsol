@@ -1,12 +1,11 @@
 Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Сергей!
 ===============================================================================================================================
 
-Я начинающий Backend-разработчик. Мой путь начался в 2020 году, тогда я поступил в университет - ИМИТ ИГУ по направлению "Прикладная информатика". Я пробовал себя во многих направлениях, пробовал изучать многие технологии, такие как css, html, js, react, node.js, java + spring, c++, python + django, docker. Но больше всего меня зацепила Backend-разработка. Мне нравится разрабатывать приложение на Python, а так же мне очень нравится работать в команде.
+Я начинающий Backend-разработчик. Мой путь начался в 2020 году, тогда я поступил в университет - ИМИТ ИГУ по направлению "Прикладная информатика". Я пробовал себя во многих направлениях, пробовал изучать многие технологии, такие как CSS, Html, JS, React, Node.js, Java + Spring, c++, Python + Django, Docker. Но больше всего меня зацепила Backend-разработка. Мне нравится разрабатывать приложение на Python, а так же мне очень нравится работать в команде.
 
-* 🌍  I'm based in Россия, Иркутск
-* ✉️  You can contact me at [Pulpu070602@yandex.ru](mailto:Pulpu070602@yandex.ru)
-* 🧠  I'm learning Django, docker
-* 🤝  I'm open to collaborating on Backend-разработка, сопровождение
+* 🌍  Я живу в Иркутске, в России.
+* 🧠  В настоящее время я изучаю Django, docker
+* 🤝  Я готов для работы в Backend-разработке, сопровождении
 
 ### Skills
 
@@ -18,4 +17,11 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Waqsol" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<div id="badges">
+  <a href="https://github.com/Waqsol">
+    <img src="https://img.shields.io/badge/GitHub-dark?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/VK-red?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+  </a>
+</div>
