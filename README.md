@@ -6,6 +6,7 @@
 * 🌍  Я живу в Иркутске, в России.
 * 🧠  В настоящее время я изучаю Django, docker
 * 🤝  Я готов для работы в Backend-разработке, сопровождении
+* 📧  Почта для связи - Pulpu070602@yandex.ru
 
 ### Skills
 
@@ -19,9 +20,15 @@
 
 <div id="badges">
   <a href="https://github.com/Waqsol">
-    <img src="https://img.shields.io/badge/GitHub-dark?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/VK-red?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+  <a href="https://vk.com/sharonov1">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+  </a>
+  <a href="https://t.me/Waqsol">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://t.me/Waqsol">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Email&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
